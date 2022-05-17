@@ -1,0 +1,32 @@
+html, body {
+  height: 100%;
+  width: 100%;
+	background-color: #e6fff1;
+	color: #004d21;
+}
+
+a {
+	color: #004d21;
+}
+
+a:hover {
+	color: #e6fff1;
+}
+
+.pikseli-kuva{
+	width: 100px;
+	background-color: #e6fff1;
+	-webkit-box-shadow: 5px 5px 20px 5px rgba(0,0,0,0.35); 
+	box-shadow: 5px 5px 20px 5px rgba(0,0,0,0.35);
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+}
+
+.otsikkokuvat{
+	width: 200px;
+}
+
+.jumbotron{ 
+  background-color: #b3ffd9;
+	color: #008037;
+}
